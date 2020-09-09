@@ -1,0 +1,17 @@
+{
+  "name": "microweber-modules/parallax",
+  "description": "Parallax",
+  "license": "MIT",
+  "homepage": "https://microweber.org/modules/microweber-modules/parallax",
+  "authors": [
+    {
+      "name": "Bozhidar Slaveykov",
+      "email": "bobi@microweber.com"
+    }
+  ],
+  "keywords": [
+    "parallax"
+  ],
+  "type": "microweber-module",
+  "target-dir": "parallax"
+}
